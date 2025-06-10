@@ -29,6 +29,13 @@ def clean_and_transform_data(df):
         mask = df['PRODUCT_NAME'] == name
         df.loc[mask, 'PRODUCT_NAME'] = real_name
 
+    marketing_channel_conversion = {
+    'Unknown': 'unknown'
+    }
+    for name, real_name in marketing_channel_conversion.items():
+        mask = df['MARKETING_CHANNEL'] == name
+        df.loc[mask, 'MARKETING_CHANNEL'] = real_name
+
 
     #feature engineering new cols based on date
     df['MONTH_OF_SALE'] = df['PURCHASE_TS'].dt.month
