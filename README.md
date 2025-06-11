@@ -192,6 +192,6 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 Explore the full interactive Tableau dashboard here:  
 [OneStop Electronics Dashboard](https://public.tableau.com/app/profile/jonathan.dang5972/viz/OneStopElectronicsDashboard/SalesDashboard?publish=yes)
 
-<img src="/graphs/refund%20metric.png" style="width:1000px;"/>
+<img src="/graphs/dashboard.png" style="width:1000px;"/>
 
 
