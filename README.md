@@ -41,7 +41,8 @@ This will enable reliable access to refined data for analysis and reporting.
    - [Historical Trends](#historical-trends)  
    - [Product Trends](#product-trends)  
    - [Regional Trends](#regional-trends)  
-   - [Loyalty Program](#loyalty-program)  
+   - [Loyalty Program](#loyalty-program)
+   - [Refund Rates](#refund-rates)  
 3. [Recommendations](#recommendations)  
 
 ---
@@ -67,18 +68,18 @@ The loyalty program, first introduced in 2019, shows room for promising growth. 
 ### Historical Trends
 
 **Sales Revenue**  
-> _insert sales revenue charts_  
+/graphs/sales rev 2 graph.png 
 - Growth in 2020: Sales revenue steadily increased until it peaked in December 2020, generating $1.25M in sales revenue in that month alone.  
 - Post 2020: Following 2020, sales revenue started steadily decreasing, with the lowest drop occurring in October 2022 (-55%) with sales revenue of $178K.
 
 **AOV**  
-> _insert AOV charts_  
+/graphs/aov 2 graphs.png 
 - Average AOV: AOV on average was $253 per month.  
 - Peak AOV: October 2020 with an AOV of $322  
 - Lowest AOV: October 2022 with an AOV of $216
 
 **Order Count**  
-> _insert order count charts_  
+/graphs/num of orders 2 graphs.png 
 - Average order count per month was 2,276 orders  
 - Peak order count: December 2020 (29%) with 4,019 orders  
 - Lowest order count: October 2022 (-46%) with 825 orders
@@ -86,7 +87,7 @@ The loyalty program, first introduced in 2019, shows room for promising growth. 
 ---
 
 ### Product Trends
-
+/graphs/Product Trends.png 
 - The three products that generated the most sales revenue are:  
   - **24in 4k Gaming Monitor**: $9,850,744  
   - **Apple Airpod Headphones**: $7,739,617  
@@ -111,3 +112,33 @@ The loyalty program, first introduced in 2019, shows room for promising growth. 
     - Underperforms in all key metrics
 
 ---
+
+## Regional Trends
+/graphs/customer demographic.png 
+Most customers come from North America, **66%** of customers are from North America and account for **51%** of total sales.
+The top 10 countries in sales revenue account for approximately **77%** of sales. Ranked by sales revenue, these countries are the United States, United Kingdom, Canada, Japan, Germany, Australia, Brazil, France, Spain, and the Netherlands.
+From these top 10 countries, Japan leads with the highest AOV (**$393**), followed by the Netherlands (**$289**) and Germany (**$270**). Spain has the lowest AOV (**$223**) of these 10 countries.
+
+## Loyalty Program
+Initially, customers not in the loyalty program outperformed loyalty members in sales by a wide margin. In 2019, loyalty members generated a mere **$415k $207 AOV** in sales revenue compared to **$3.4M $233 AOV** from members not in the loyalty program. Additionally, in 2020, loyalty members generated approximately **$3M $228 AOV** in 2020 while customers not in the loyalty program generated **$7.1M $345 AOV**. 
+
+However, trends have started to reverse following 2020, with the loyalty program doing better in all metrics compared to non-loyalty members. Loyalty member AOV has steadily risen and overtook non-loyalty AOV in 2022. 
+
+## Refund Rates
+/graphs/refund metric.png 
+Macbook Air Laptop and Thinkpad Laptop lead the product lineup with an **11%** refund rate.
+24in 4k Gaming Monitor (**1445**) and Apple Airpod Headphones (**2636**) had the most number of orders refunded.
+Macbook Air Laptop (**$746,365**) and 24in 4k Gaming Monitor (**642,719**) had the highest amount of revenue from sales refunded.
+
+## Recommendations
+Based on the following analysis and insights, the following is suggested.
+
+1. Remove Bose Soundsport from the product lineup. It does not generate enough sales and has performed poorly every year in every metric.
+2. Implement discounts and promotions in months where metrics are down. Consider seasonal promotions such as:
+      Discounting essentials (chargers, headphones, etc.) and using free shipping to boost order volume
+      Incentivizing high-AOV purchases (Macbook Air Laptop, Thinkpad Laptop) by using bundled discounts with items like webcams and monitors. Use a "Buy More, Save More" strategy to increase AOV.
+3. Investigate with the product team to determine why refund rates for the highest-AOV items(Macbook and Lenovo) are so high.
+
+## Dashboard
+To explore more trends use the interactive Tableau Dashboard here(embed link). (https://public.tableau.com/app/profile/jonathan.dang5972/viz/OneStopElectronicsDashboard/SalesDashboard?publish=yes)
+insert image of dashboard
