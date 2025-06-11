@@ -98,6 +98,8 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 - **Peak**: December 2020 – 4,019 orders (+29%)  
 - **Lowest**: October 2022 – 825 orders (-46%)
 
+---
+
 
 ### 🧾 Product Trends  
 <img src="/graphs/Product%20Trends.png" style="width:600px;"/>
