@@ -80,7 +80,7 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 - **Lowest**: October 2022 – $216  
 
 **Order Count**  
-![Order Count](/graphs/num%20of%20orders%202%20graphs.png)  
+![Order Count](/graphs/num%20of%20order%202%20graphs.png)  
 - **Average monthly orders**: 2,276  
 - **Peak**: December 2020 – 4,019 orders (+29%)  
 - **Lowest**: October 2022 – 825 orders (-46%)  
