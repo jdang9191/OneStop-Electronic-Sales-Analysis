@@ -68,19 +68,19 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 
 ### Historical Trends  
 
-**Sales Revenue**  
-![Sales Revenue](/graphs/sales%20rev%202%20graph.png)  
+**Sales Revenue**
+!<img src="graphs/sales%20rev%202%20graph.png" width="600"/>
 - **Growth in 2020**: Peaked in December 2020 with **$1.25M**  
 - **Decline post-2020**: Bottomed in October 2022 at **$178K (-55%)**
 
 **Average Order Value (AOV)**  
-![AOV](/graphs/aov%202%20graphs.png)  
+<img src="/graphs/aov%202%20graphs.png" width="600"/>
 - **Average**: $253 per month  
 - **Peak**: October 2020 – $322  
 - **Lowest**: October 2022 – $216  
 
 **Order Count**  
-![Order Count](/graphs/num%20of%20order%202%20graphs.png)  
+<img src="/graphs/num%20of%20order%202%20graphs.png" width="600"/>
 - **Average monthly orders**: 2,276  
 - **Peak**: December 2020 – 4,019 orders (+29%)  
 - **Lowest**: October 2022 – 825 orders (-46%)  
