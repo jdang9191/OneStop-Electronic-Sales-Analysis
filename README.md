@@ -69,18 +69,21 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 ### Historical Trends  
 
 **Sales Revenue**
-!<img src="graphs/sales%20rev%202%20graph.png" width="600"/>
+!<img src="graphs/sales%20rev%202%20graph.png" style="width:600px;"/>
+
 - **Growth in 2020**: Peaked in December 2020 with **$1.25M**  
 - **Decline post-2020**: Bottomed in October 2022 at **$178K (-55%)**
 
 **Average Order Value (AOV)**  
-<img src="/graphs/aov%202%20graphs.png" width="600"/>
+<img src="/graphs/aov%202%20graphs.png" style="width:600px;"/>
+
 - **Average**: $253 per month  
 - **Peak**: October 2020 – $322  
 - **Lowest**: October 2022 – $216  
 
 **Order Count**  
-<img src="/graphs/num%20of%20order%202%20graphs.png" width="600"/>
+<img src="/graphs/num%20of%20order%202%20graphs.png" style="width:600px;"/>
+
 - **Average monthly orders**: 2,276  
 - **Peak**: December 2020 – 4,019 orders (+29%)  
 - **Lowest**: October 2022 – 825 orders (-46%)  
@@ -88,7 +91,7 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 ---
 
 ### 🧾 Product Trends  
-![Product Trends](/graphs/Product%20Trends.png)  
+<img src="/graphs/Product%20Trends.png" style="width:600px;"/>
 
 - **Top 3 Revenue Products**:  
   - 24in 4k Gaming Monitor – **$9.85M**  
@@ -115,7 +118,7 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 ---
 
 ### Regional Trends  
-![Regional Trends](/graphs/customer%20demographic.png)  
+<img src="/graphs/customer%20demographic.png" style="width:600px;"/>
 
 - **66%** of customers are from **North America**, contributing to **51%** of sales  
 - The **top 10 countries** account for **77%** of total sales:  
@@ -145,8 +148,8 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 
 ---
 
-### Refund Rates  
-![Refund Rates](/graphs/refund%20metric.png)
+### Refund Rates
+<img src="/graphs/refund%20metric.png" style="width:600px;"/>
 
 - **Highest Refund Rate**:  
   - Macbook Air Laptop & ThinkPad Laptop – **11%**  
