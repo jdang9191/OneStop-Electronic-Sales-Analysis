@@ -1,4 +1,4 @@
-# 📦 OneStop Electronics E-commerce Analysis
+# 📦 OneStop Electronics E-Commerce Analysis
 
 ## Company Background  
 Established in 2018, **OneStop Electronics** is a global e-commerce retailer specializing in high-demand consumer electronics. The company has capitalized on growing international interest by focusing on online sales and digital customer engagement. Its product lineup features top-tier brands such as **Apple, Samsung, and Bose**.
@@ -41,9 +41,10 @@ This will enable reliable access to refined data for analysis and reporting.
    - [Historical Trends](#historical-trends)  
    - [Product Trends](#product-trends)  
    - [Regional Trends](#regional-trends)  
-   - [Loyalty Program](#loyalty-program)
+   - [Loyalty Program](#loyalty-program)  
    - [Refund Rates](#refund-rates)  
 3. [Recommendations](#recommendations)  
+4. [Dashboard](#dashboard)
 
 ---
 
@@ -55,90 +56,126 @@ In **2020**, the company saw significant year-over-year growth, with:
 - **Sales revenue** increasing from **$2M to $10M**  
 - Substantial increases in order volume and engagement across all tracked metrics
 
-March 2020 had the highest growth rates, with a 50% growth rate in sales and 46% increase in number of orders.
+**March 2020** had the highest growth rates, with a **50% growth rate in sales** and a **46% increase in number of orders**.
 
-Following 2020, sales dropped tremendously, with revenue steadily decreasing month by month. OneStop Electronics experienced a decline in YoY (Year over Year) growth with revenue dropping by 10% in 2021 and decreasing even further to 45% the following year. October 2022 was the worst month with a 55% decrease in revenue.
+Following 2020, sales dropped tremendously, with revenue steadily decreasing month by month. OneStop Electronics experienced a decline in YoY growth with revenue dropping by **10% in 2021** and by **45% in 2022**. **October 2022** was the worst month, with a **55% decrease in revenue**.
 
-The loyalty program, first introduced in 2019, shows room for promising growth. While customers not in the loyalty program initially outperformed loyalty members in sales, trends started to reverse in recent years. Through further improvement and optimization of the loyalty program, sales, number of orders, and AOV could increase and drive future growth.
+The loyalty program, introduced in 2019, shows promising growth potential. While non-loyalty members initially outperformed loyalty members, trends reversed post-2020. Loyalty members now show stronger performance across sales, order volume, and AOV.
 
 ---
 
 ## Data-Driven Insights
 
-### Historical Trends
+### Historical Trends  
 
 **Sales Revenue**  
-/graphs/sales rev 2 graph.png 
-- Growth in 2020: Sales revenue steadily increased until it peaked in December 2020, generating $1.25M in sales revenue in that month alone.  
-- Post 2020: Following 2020, sales revenue started steadily decreasing, with the lowest drop occurring in October 2022 (-55%) with sales revenue of $178K.
+![Sales Revenue](/graphs/sales%20rev%202%20graph.png)  
+- **Growth in 2020**: Peaked in December 2020 with **$1.25M**  
+- **Decline post-2020**: Bottomed in October 2022 at **$178K (-55%)**
 
-**AOV**  
-/graphs/aov 2 graphs.png 
-- Average AOV: AOV on average was $253 per month.  
-- Peak AOV: October 2020 with an AOV of $322  
-- Lowest AOV: October 2022 with an AOV of $216
+**Average Order Value (AOV)**  
+![AOV](/graphs/aov%202%20graphs.png)  
+- **Average**: $253 per month  
+- **Peak**: October 2020 – $322  
+- **Lowest**: October 2022 – $216  
 
 **Order Count**  
-/graphs/num of orders 2 graphs.png 
-- Average order count per month was 2,276 orders  
-- Peak order count: December 2020 (29%) with 4,019 orders  
-- Lowest order count: October 2022 (-46%) with 825 orders
+![Order Count](/graphs/num%20of%20orders%202%20graphs.png)  
+- **Average monthly orders**: 2,276  
+- **Peak**: December 2020 – 4,019 orders (+29%)  
+- **Lowest**: October 2022 – 825 orders (-46%)  
 
 ---
 
-### Product Trends
-/graphs/Product Trends.png 
-- The three products that generated the most sales revenue are:  
-  - **24in 4k Gaming Monitor**: $9,850,744  
-  - **Apple Airpod Headphones**: $7,739,617  
-  - **Macbook Air Laptop**: $6,295,309  
-  - ➤ Combined, they account for **84% of total sales**
+### 🧾 Product Trends  
+![Product Trends](/graphs/Product%20Trends.png)  
 
-- **AOV by Product**:  
-  - **Macbook Air Laptop**: $1,588 (highest)  
-  - **ThinkPad Laptop**: $1,100  
-  - **Apple iPhone**: $741
+- **Top 3 Revenue Products**:  
+  - 24in 4k Gaming Monitor – **$9.85M**  
+  - Apple Airpod Headphones – **$7.74M**  
+  - Macbook Air Laptop – **$6.30M**  
+  ➤ Combined, they account for **84% of total sales**
+
+- **Highest AOV Products**:  
+  - Macbook Air Laptop – **$1,588**  
+  - ThinkPad Laptop – **$1,100**  
+  - Apple iPhone – **$741**
 
 - **Most Ordered Products**:  
-  - **Apple Airpod Headphones**: 48,396 orders  
-  - **24in 4k Gaming Monitor**: 23,406 orders  
-  - **Samsung Charging Cable**: 21,916 orders
+  - Apple Airpod Headphones – **48,396** orders  
+  - 24in 4k Gaming Monitor – **23,406** orders  
+  - Samsung Charging Cable – **21,916** orders
 
 - **Weakest Product**:  
-  - **Bose Soundsport**:  
+  - **Bose Soundsport**  
     - 27 orders  
     - $124 AOV  
-    - $3K in total sales revenue  
-    - Underperforms in all key metrics
+    - $3K in total revenue  
 
 ---
 
-## Regional Trends
-/graphs/customer demographic.png 
-Most customers come from North America, **66%** of customers are from North America and account for **51%** of total sales.
-The top 10 countries in sales revenue account for approximately **77%** of sales. Ranked by sales revenue, these countries are the United States, United Kingdom, Canada, Japan, Germany, Australia, Brazil, France, Spain, and the Netherlands.
-From these top 10 countries, Japan leads with the highest AOV (**$393**), followed by the Netherlands (**$289**) and Germany (**$270**). Spain has the lowest AOV (**$223**) of these 10 countries.
+### Regional Trends  
+![Regional Trends](/graphs/customer%20demographic.png)  
 
-## Loyalty Program
-Initially, customers not in the loyalty program outperformed loyalty members in sales by a wide margin. In 2019, loyalty members generated a mere **$415k $207 AOV** in sales revenue compared to **$3.4M $233 AOV** from members not in the loyalty program. Additionally, in 2020, loyalty members generated approximately **$3M $228 AOV** in 2020 while customers not in the loyalty program generated **$7.1M $345 AOV**. 
+- **66%** of customers are from **North America**, contributing to **51%** of sales  
+- The **top 10 countries** account for **77%** of total sales:  
+  US, UK, Canada, Japan, Germany, Australia, Brazil, France, Spain, Netherlands  
+- **Highest AOV by Country**:  
+  - Japan – **$393**  
+  - Netherlands – **$289**  
+  - Germany – **$270**  
+- **Lowest AOV** among top 10:  
+  - Spain – **$223**
 
-However, trends have started to reverse following 2020, with the loyalty program doing better in all metrics compared to non-loyalty members. Loyalty member AOV has steadily risen and overtook non-loyalty AOV in 2022. 
+---
 
-## Refund Rates
-/graphs/refund metric.png 
-Macbook Air Laptop and Thinkpad Laptop lead the product lineup with an **11%** refund rate.
-24in 4k Gaming Monitor (**1445**) and Apple Airpod Headphones (**2636**) had the most number of orders refunded.
-Macbook Air Laptop (**$746,365**) and 24in 4k Gaming Monitor (**642,719**) had the highest amount of revenue from sales refunded.
+### Loyalty Program  
 
-## Recommendations
-Based on the following analysis and insights, the following is suggested.
+- **2019**:  
+  - Loyalty members – **$415K in revenue**, **$207 AOV**  
+  - Non-members – **$3.4M revenue**, **$233 AOV**  
 
-1. Remove Bose Soundsport from the product lineup. It does not generate enough sales and has performed poorly every year in every metric.
-2. Implement discounts and promotions in months where metrics are down. Consider seasonal promotions such as:
-      Discounting essentials (chargers, headphones, etc.) and using free shipping to boost order volume
-      Incentivizing high-AOV purchases (Macbook Air Laptop, Thinkpad Laptop) by using bundled discounts with items like webcams and monitors. Use a "Buy More, Save More" strategy to increase AOV.
-3. Investigate with the product team to determine why refund rates for the highest-AOV items(Macbook and Lenovo) are so high.
+- **2020**:  
+  - Loyalty members – **$3M**, **$228 AOV**  
+  - Non-members – **$7.1M**, **$345 AOV**
 
-## Dashboard
-To explore more trends use the interactive Tableau Dashboard here(embed link). (https://public.tableau.com/app/profile/jonathan.dang5972/viz/OneStopElectronicsDashboard/SalesDashboard?publish=yes)
-insert image of dashboard
+- **Post-2020**:  
+  - Loyalty member AOV overtook non-loyalty in **2022**  
+  - Loyalty members now perform better across most KPIs  
+
+---
+
+### Refund Rates  
+![Refund Rates](/graphs/refund%20metric.png)
+
+- **Highest Refund Rate**:  
+  - Macbook Air Laptop & ThinkPad Laptop – **11%**  
+
+- **Most Refunds by Order Volume**:  
+  - 24in 4k Gaming Monitor – **1,445** refunded orders  
+  - Apple Airpod Headphones – **2,636** refunded orders  
+
+- **Most Refund Revenue Lost**:  
+  - Macbook Air Laptop – **$746,365**  
+  - 24in 4k Gaming Monitor – **$642,719**  
+
+---
+
+## Recommendations  
+
+1. **Remove Bose Soundsport**: Underperforms in all metrics, does not justify continued listing.  
+2. **Implement targeted promotions**:  
+   - Use **seasonal discounts** on essentials (chargers, headphones)  
+   - Offer **free shipping** to encourage conversions  
+   - **Bundle high-AOV items** (Macbook, ThinkPad) with accessories using a **“Buy More, Save More”** model  
+3. **Investigate refund drivers**:  
+   - High refund rates for premium items suggest product issues or customer dissatisfaction  
+   - Coordinate with product/QA teams to resolve
+
+---
+
+## Dashboard  
+Explore the full interactive Tableau dashboard here:  
+[OneStop Electronics Dashboard](https://public.tableau.com/app/profile/jonathan.dang5972/viz/OneStopElectronicsDashboard/SalesDashboard?publish=yes)
+
+![Dashboard Preview](/dashboard.png)
