@@ -131,7 +131,7 @@ The loyalty program, introduced in 2019, shows promising growth potential. While
 ### Regional Trends  
 <img src="/graphs/customer%20demographic.png" style="width:600px;"/>
 
-- **66%** of customers are from **North America**, contributing to **51%** of sales  
+- **66%** of customers are from **North America**, contributing to **51%** of global sales  
 - The **top 10 countries** account for **77%** of total sales:  
   US, UK, Canada, Japan, Germany, Australia, Brazil, France, Spain, Netherlands  
 - **Highest AOV by Country**:  
